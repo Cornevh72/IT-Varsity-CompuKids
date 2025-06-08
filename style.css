@@ -15,13 +15,6 @@ h3{
     font-family: Comic Sans, Comic Sans MS, cursive;
 }
 
-p{
-    color: coral;
-    font-family: fantasy;
-    font-weight: 800;
-    text-decoration: line-through;
-}
-
 ul{
     list-style-image: url('images/pointer-icon.png');
 }
@@ -30,14 +23,14 @@ ol{
     list-style-type: upper-roman;
 }
 
-a{
+#menu-bar a{
     font-family: Helvetica, sans-serif;
     text-decoration: none;
     background-color: aquamarine;
     padding: 5px;
 }
 
-a:hover{
+#menu-bar a:hover{
     background-color: aqua;
     color: #ffffff;
     
